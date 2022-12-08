@@ -2,6 +2,6 @@ package com.saneet.demo.network
 
 class Constants {
     companion object {
-        const val BASE_URL = ""
+        const val BASE_URL = "https://gist.githubusercontent.com/"
     }
 }
